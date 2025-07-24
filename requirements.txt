@@ -1,0 +1,7 @@
+langchainhub
+bs4
+tiktoken
+boto3==1.34.37
+chromadb
+
+
